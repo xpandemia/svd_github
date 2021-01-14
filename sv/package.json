@@ -1,0 +1,21 @@
+{
+  "name": "svod",
+  "version": "1.0.0",
+  "description": "system of visualisation ordered data",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xpandemia@gmail.com"
+  },
+  "keywords": [
+    "unpantardy4"
+  ],
+  "author": "Xpandemia",
+  "license": "ISC"
+}
